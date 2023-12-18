@@ -1,0 +1,35 @@
+{
+  "link": "http://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=130",
+  "name": "Blatná - Řečice - přední lom",
+  "country": "Česko",
+  "region": "Jihočeský kraj",
+  "type": "Sladká - lom",
+  "altitude": "460 m.n.m",
+  "maximumDepth": "19 m",
+  "gps": "todo parse and save",
+  "averageVisibility": "2 m (v hloubce)",
+  "score": {
+    "status": "Velmi pěkná",
+    "count": "(hodnotilo 49 potápěčů)"
+  },
+  "temperature": {
+    "1": "-",
+    "2": "-",
+    "3": "3°C",
+    "4": "3°C",
+    "5": "3°C",
+    "6": "3°C",
+    "7": "3°C",
+    "8": "3°C",
+    "9": "3°C",
+    "10": "3°C",
+    "11": "3°C",
+    "12": "3°C"
+  },
+  "description": "Silnice E49 směr Č.B. - Plzeň, před značkou konec Blatné, u pumpy Robin Oil a autosalonu Hyunday zahnout do prava ke komínu. Přejedete koleje, potom most, za ním odbočte doleva pod železniční trať směrem na velké silo. Za silem po asi 300 metrech (před objekty lomu) odbočte na louku doprava. Na louce je lom o průměru asi 40 metrů.",
+  "pictures": [
+    "https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=132",
+    "https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=132",
+    "https://www.stranypotapecske.cz/lokality/lokaldet.asp?lok=132"
+  ]
+}

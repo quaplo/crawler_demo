@@ -1,0 +1,11 @@
+list:
+  link: http://www.stranypotapecske.cz/lokality/default.asp
+  filter: 'table tr a'
+  filter_attribute: 'href'
+  link_prefix: 'http://www.stranypotapecske.cz/lokality/'
+  output_file:
+    src: 'public/tmp/links.xml'
+    encoding: 'utf-8'
+    version: '1.0'
+    root_element: 'Links'
+    child_element: 'url'
